@@ -12,7 +12,7 @@ A Lover of God and His word.
 
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true&theme=radical)
-
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnet2log&layout=compact)](https://github.com/pnet2log/github-readme-stats)
 -->
