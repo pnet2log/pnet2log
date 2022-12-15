@@ -10,7 +10,9 @@ A Lover of God and His word.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true)
+
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pnet2log&repo=github-readme-stats)](https://github.com/pnet2log/github-readme-stats/show_owner)
 
 -->
