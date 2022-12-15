@@ -11,4 +11,6 @@ A Lover of God and His word.
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log)](https://github.com/anuraghazra/github-readme-stats)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&count_private=true)
+
 -->
