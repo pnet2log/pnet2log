@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Paul
-#### I am a Software Developer and Microsoft Power Platform Trainer
+#### Software Developer and Microsoft Power Platform Trainer
 ![I am a Software Developer and Microsoft Power Platform Trainer](https://media.licdn.com/dms/image/D4D16AQEhJ4e7V6ZfZw/profile-displaybackgroundimage-shrink_350_1400/0/1671127214278?e=1676505600&v=beta&t=VfvKBVHCdwlASk2jbZw3LG3BXKX8OeqYHzXRpNOn3U0)
 
-Am a software developer, a proficient power platform trainer and a Network/cyber enthusiast. I see data analytics as a hobby.
+ I am a software developer, a proficient power platform trainer and a Network/cyber enthusiast. I see data analytics as a hobby.
 A Lover of God and His word.
 - 🔭 I’m currently working on Finalist App building solution submission in Power Apps Africa Challenge, 2022
 - 🌱 I’m currently learning advance Python in Data Science on Udacity scholarship partnering with Berthelsman.
@@ -24,8 +24,6 @@ Skills: Microsoft Azure / Python / Java / HTML / CSS / Power Platform
 
 ![Profile views](https://gpvc.arturio.dev/pnet2log)  
 
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true&theme=radical)
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&hide=contribs,issues&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnet2log&layout=compact)](https://github.com/pnet2log/github-readme-stats)
