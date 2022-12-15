@@ -1,9 +1,7 @@
 ![I am a Software Developer and Microsoft Power Platform Trainer](https://media.licdn.com/dms/image/D4D16AQEhJ4e7V6ZfZw/profile-displaybackgroundimage-shrink_350_1400/0/1671127214278?e=1676505600&v=beta&t=VfvKBVHCdwlASk2jbZw3LG3BXKX8OeqYHzXRpNOn3U0)
 
-### Hi there 👋, my name is Paul Simon Umaru
-#### Software Developer and Microsoft Power Platform Trainer
-
- I am from Nigeria, a software developer, a proficient power platform trainer and a Network/cyber enthusiast. I see data analytics as a hobby.
+# Paul Simon Umaru
+ I am from Nigeria, a software developer, a proficient power platform trainer and a Network/cyber enthusiast. I see data analysis as a hobby.
  A Lover of God and His word.
 - 🔭 I’m currently working on Finalist App building solution submission in Power Apps Africa Challenge, 2022
 - 🌱 I’m currently learning advance Python in Data Science on Udacity scholarship partnering with Berthelsman.
