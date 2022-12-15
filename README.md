@@ -11,7 +11,7 @@ A Lover of God and His word.
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
 
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true&theme=gradient)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnet2log&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnet2log&layout=compact)](https://github.com/pnet2log/github-readme-stats)
