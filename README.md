@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**pnet2log/pnet2log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Finalist App building solution submission in Power Apps Africa Challenge, 2022
 - 🌱 I’m currently learning advance Python in Data Science on Udacity scholarship partnering with Berthelsman.
 - 👯 I’m looking to collaborate on Machine learning prediction model and software development.
