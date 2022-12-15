@@ -15,12 +15,12 @@
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
 
 ## Skills and Experience: 
-☁️ Microsoft Azure 
-🐍 Python 
-💻 Java / HTML / CSS 
-🖥️ Power Platform
+* ☁️ Microsoft Azure 
+* 🐍 Python 
+* 💻 Java / HTML / CSS 
+* 🖥️ Power Platform
 
-- 🔭 I’m currently working as a Microsoft Learn students Ambassador. 
+- 🔭 I’m currently working as a Microsoft Learn students Ambassador (MLSA). 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pnet2log)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/paul-umaru//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/pnet2log)  
