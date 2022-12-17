@@ -1,4 +1,4 @@
-![I am a Software Developer and Microsoft Power Platform Trainer](https://pbs.twimg.com/profile_banners/417759702/1668954149/600x200) 
+![I am a Software Developer and Microsoft Power Platform Trainer](https://pbs.twimg.com/profile_banners/417759702/1671258585/600x200) 
 
 # Paul Simon Umaru
  I am from Nigeria, a software developer, a proficient power platform trainer and a Network/Cyber enthusiast. I see data analysis as a hobby.
