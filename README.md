@@ -1,13 +1,12 @@
-![I am a Software Developer and Microsoft Power Platform Trainer]![#JosGPPB2023](https://user-images.githubusercontent.com/82520832/234489843-de713004-d66c-4981-b8d9-554e33ea4f32.png) 
-
+![Software Developer and Microsoft Power Platform Trainer]![@pnet2log](https://github.com/pnet2log/pnet2log/assets/82520832/901bbadf-be40-431f-b811-d8b7e5a1f784)
 # Paul Simon Umaru
  I am from Nigeria, a software developer, a proficient power platform trainer and a Network/Cyber enthusiast. I see data analysis as a hobby.
  A Lover of God and His word.
 - 🔭 I’m currently working on a project in Criminal Tracking System with security automation in the University of JOs, Nigeria.
-- 🌱 I’m currently learning Programming for Data Science with Python in Udacity scholarship academy.
+- 🌱 Completed Programming for Data Science with Python in Udacity scholarship academy.
 - 👯 I’m looking to collaborate on Machine learning prediction model and software development.
 - 🤔 I’m looking for training opportunities to impact my skills and collaborate.
-- 💬 Ask me about Microsoft Power Platform, Azure and Computer Networking
+- 💬 Ask me about Microsoft Power Platform, Azure, SQL and Computer Networking
 - 📫 How to reach me: https://www.linkedin.com/in/paul-umaru/  and https://twitter.com/pnet2log
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
