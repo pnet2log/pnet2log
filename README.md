@@ -10,7 +10,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/paul-umaru/  and https://twitter.com/pnet2log
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Smiles alot and a Football sport lover. loves hanging out with friends.
-- 🔭 I’m currently Serving as a Microsoft Learn students Ambassador (MLSA).
+- 🔭 I’m currently Serving as a Gold Microsoft Learn students Ambassador (MLSA).
 - 
 ## Skills and Experience: 
 * ☁️ Microsoft Azure 
